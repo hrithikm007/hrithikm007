@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hrithikm007
 - 👀 I’m interested in Dev, Dsa, Gaming
-- 🌱 I’m currently pursing BE in CSE @ MSRIT
+- 🌱 I’m currently pursuing BE in CSE @ MSRIT
 - 📫 How to reach me Twitter - hrithikm007
 
 <!---
